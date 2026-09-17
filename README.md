@@ -40,26 +40,6 @@ Plataforma web y móvil multi-bodega orientada a la gestión de ventas, inventar
 
 ---
 
-### 🛒 AbarrotesSuite.Web
-
-Sistema web para gestión de operaciones de una tienda de abarrotes.
-
-**Tecnologías:** C# · .NET · Desarrollo Web
-
-[Ver repositorio](https://github.com/WillimasRusbelths/AbarrotesSuite.Web)
-
----
-
-### 🧪 Laboratorio de Pruebas Unitarias
-
-Proyecto académico enfocado en fundamentos y aplicación de pruebas unitarias.
-
-**Tecnologías:** Python · Testing · Git
-
-[Ver repositorio](https://github.com/WillimasRusbelths/laboratorio-pruebas-unitarias)
-
----
-
 ## 🛠️ Stack tecnológico
 
 ### Lenguajes
