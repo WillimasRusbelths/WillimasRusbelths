@@ -1,53 +1,98 @@
-<h1 align="center">Hola 👋, soy Williams Rusbelths</h1>
+<h1 align="center">Hola, soy Williams 👋</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería de Sistemas | Desarrollo Backend & Frontend | Inteligencia Artificial
+Estudiante de Ingeniería de Sistemas | Software Engineering | Backend & Full Stack
 </h3>
+
+<p align="center">
+  Desarrollo aplicaciones web, APIs y sistemas orientados a resolver problemas reales.
+  Actualmente profundizando en Arquitectura de Software, Inteligencia Artificial y DevOps.
+</p>
+
+<p align="center">
+  <a href="https://github.com/WillimasRusbelths">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Sistemas en la UNSCH**
-- 💻 Interesado en desarrollo de software Backend y Frontend
-- 🌱 Actualmente aprendiendo **Arquitectura de Software, Inteligencia Artificial y DevOps**
-- 🚀 Desarrollando aplicaciones web y sistemas de gestión
-- 🤖 Interesado en IA, APIs, sistemas escalables y automatización
+- 💻 Enfocado en **desarrollo Backend y Full Stack**
+- 🏗️ Interesado en **Arquitectura de Software y sistemas escalables**
+- 🤖 Explorando soluciones con **Inteligencia Artificial**
+- 🗄️ Experiencia académica y personal trabajando con APIs, bases de datos y aplicaciones web
+- 🌱 Actualmente fortaleciendo conocimientos en **DevOps, Docker y despliegue de aplicaciones**
 
 ---
 
-## 🚀 Mis proyectos
+## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| **Bodega Inteligente** | Plataforma web y móvil multi-bodega para ventas, inventario y clientes | TypeScript |
-| **AbarrotesSuite.Web** | Sistema web de gestión de abarrotes | C# |
-| **Laboratorio Pruebas Unitarias** | Prácticas de pruebas de software | Python |
-| **Laboratorio 6** | Proyecto académico desarrollado en Python | Python |
+### 🏪 Bodega Inteligente
+
+Plataforma web y móvil multi-bodega orientada a la gestión de ventas, inventario y clientes.
+
+**Tecnologías:** TypeScript · APIs REST · PostgreSQL · Testing
+
+> Proyecto actualmente en desarrollo.
 
 ---
 
-## 🛠️ Lenguajes y herramientas
+### 🛒 AbarrotesSuite.Web
 
-<p align="center">
+Sistema web para gestión de operaciones de una tienda de abarrotes.
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,nodejs,react,html,css,postgres,mysql,docker,git,github,linux,vscode" />
+**Tecnologías:** C# · .NET · Desarrollo Web
 
+[Ver repositorio](https://github.com/WillimasRusbelths/AbarrotesSuite.Web)
+
+---
+
+### 🧪 Laboratorio de Pruebas Unitarias
+
+Proyecto académico enfocado en fundamentos y aplicación de pruebas unitarias.
+
+**Tecnologías:** Python · Testing · Git
+
+[Ver repositorio](https://github.com/WillimasRusbelths/laboratorio-pruebas-unitarias)
+
+---
+
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,html,css" />
+</p>
+
+### Backend y bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql" />
+</p>
+
+### Herramientas y entorno
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🔥 Actividad en GitHub
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=WillimasRusbelths&show_icons=true&theme=github_dark" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillimasRusbelths&layout=compact&theme=github_dark" />
-
+  <img src="https://streak-stats.demolab.com?user=WillimasRusbelths&theme=github-dark-blue&hide_border=true" />
 </p>
+
+---
+
+## 🎯 Áreas de interés
+
+`Backend Development` · `Software Architecture` · `APIs REST` · `Databases` · `Artificial Intelligence` · `DevOps`
 
 ---
 
@@ -56,7 +101,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillimasRusb
 <p align="center">
 
 <a href="https://github.com/WillimasRusbelths">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-WillimasRusbelths-181717?style=for-the-badge&logo=github" />
 </a>
 
 </p>
@@ -64,5 +109,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillimasRusb
 ---
 
 <p align="center">
-🚀 Aprendiendo, desarrollando y construyendo nuevos proyectos.
+  <i>Construyendo software, aprendiendo arquitectura y mejorando proyecto a proyecto.</i>
 </p>
